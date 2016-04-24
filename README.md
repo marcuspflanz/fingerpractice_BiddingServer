@@ -1,4 +1,4 @@
-# fingerpractice_BiddingServier
+# fingerpractice_BiddingServer
 Test implementation of a simple bidder agent
 
 ## Preconditions
